@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-label="Terminal window: let's build something. Open to SWE, AI, PM, GTM roles">
+  <defs>
+    <clipPath id="c1"><rect class="r1" x="0" y="50" width="900" height="30"/></clipPath>
+    <clipPath id="c2"><rect class="r2" x="0" y="84" width="900" height="30"/></clipPath>
+    <clipPath id="c3"><rect class="r3" x="0" y="116" width="900" height="30"/></clipPath>
+    <clipPath id="c4"><rect class="r4" x="0" y="146" width="900" height="30"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .title { font-size: 13px; fill: #8b949e; }
+    .prompt { font-size: 18px; fill: #3fb950; }
+    .cmd { font-size: 18px; fill: #e6edf3; }
+    .out { font-size: 18px; fill: #e6edf3; }
+    .sub { font-size: 18px; fill: #58a6ff; }
+    .cursor { fill: #e6edf3; animation: blink 1s steps(1) infinite; }
+    .r1 { animation: type 0.9s steps(34) 0.2s backwards; }
+    .r2 { animation: type 0.5s steps(22) 1.2s backwards; }
+    .r3 { animation: type 0.9s steps(34) 1.8s backwards; }
+    .r4 { animation: type 0.3s steps(10) 2.8s backwards; }
+    @keyframes type { from { width: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="898" height="178" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v23H1z" fill="#161b22"/>
+  <line x1="1" y1="36" x2="899" y2="36" stroke="#30363d"/>
+  <circle cx="26" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="19" r="6" fill="#27c93f"/>
+  <text class="title" x="450" y="24" text-anchor="middle">arya@carolina: ~</text>
+
+  <g clip-path="url(#c1)">
+    <text x="32" y="72"><tspan class="prompt">arya@carolina:~$</tspan><tspan class="cmd"> echo "let's build something"</tspan></text>
+  </g>
+  <g clip-path="url(#c2)">
+    <text class="out" x="32" y="104">let's build something</text>
+  </g>
+  <g clip-path="url(#c3)">
+    <text class="sub" x="32" y="136">Open to SWE · AI · PM · GTM roles</text>
+  </g>
+  <g clip-path="url(#c4)">
+    <text x="32" y="166"><tspan class="prompt">arya@carolina:~$</tspan><tspan class="cmd"> exit</tspan><tspan class="cursor" dx="8">█</tspan></text>
+  </g>
+</svg>

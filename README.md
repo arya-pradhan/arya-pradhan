@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arya%20Pradhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Automation&descSize=16&descAlignY=58&descColor=ccd6f6" width="100%"/>
+<img src="assets/header.svg" alt="Arya Pradhan: CS @ Carolina, Full-Stack, AI/ML, Automation" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=CS+%40+Carolina;Building+AI+agents+%26+automation;Open+to+SWE+%E2%80%A2+AI+%E2%80%A2+PM+%E2%80%A2+GTM+roles)](https://git.io/typing-svg)
 
@@ -187,6 +187,6 @@ aryashreepradhan@gmail.com
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" alt="Open to SWE, AI, PM, GTM roles" width="100%"/>
 
 </div>
