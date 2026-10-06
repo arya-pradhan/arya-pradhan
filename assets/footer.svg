@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-label="Terminal window: let's build something. Open to SWE, AI, PM, GTM roles">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-label="Terminal window: reach for the stars. Open to SWE, AI, PM, GTM roles">
   <defs>
     <clipPath id="c1"><rect class="r1" x="0" y="50" width="900" height="30"/></clipPath>
     <clipPath id="c2"><rect class="r2" x="0" y="84" width="900" height="30"/></clipPath>
@@ -30,10 +30,10 @@
   <text class="title" x="450" y="24" text-anchor="middle">arya@carolina: ~</text>
 
   <g clip-path="url(#c1)">
-    <text x="32" y="72"><tspan class="prompt">arya@carolina:~$</tspan><tspan class="cmd"> echo "let's build something"</tspan></text>
+    <text x="32" y="72"><tspan class="prompt">arya@carolina:~$</tspan><tspan class="cmd"> echo "reach for the stars"</tspan></text>
   </g>
   <g clip-path="url(#c2)">
-    <text class="out" x="32" y="104">let's build something</text>
+    <text class="out" x="32" y="104">reach for the stars</text>
   </g>
   <g clip-path="url(#c3)">
     <text class="sub" x="32" y="136">Open to SWE · AI · PM · GTM roles</text>

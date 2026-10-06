@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" alt="Arya Pradhan: CS @ Carolina, Full-Stack, AI/ML, Automation" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=CS+%40+Carolina;Building+AI+agents+%26+automation;Open+to+SWE+%E2%80%A2+AI+%E2%80%A2+PM+%E2%80%A2+GTM+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+AI+agents+%26+automation;Open+to+SWE+%E2%80%A2+AI+%E2%80%A2+PM+%E2%80%A2+GTM+roles)](https://git.io/typing-svg)
 
 <br/>
 
